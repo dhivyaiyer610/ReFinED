@@ -52,17 +52,17 @@ os.makedirs(OUTPUT_PATH, exist_ok=True)
 # See https://wikimedia.mirror.us.dev/mirrors.html for a list.
 
 # Wikidata configuration
-WIKIDATA_DUMP_URL = 'https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2'
+WIKIDATA_DUMP_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.json.bz2'
 WIKIDATA_DUMP_FILE = 'wikidata.json.bz2'
 
 # Wikipedia configuration
-WIKIPEDIA_REDIRECTS_URL = 'https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-redirect.sql.gz'
+WIKIPEDIA_REDIRECTS_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.sql.gz'
 WIKIPEDIA_REDIRECTS_FILE = 'wikipedia_redirects.sql.gz'
 WIKIPEDIA_PAGE_IDS_URL = 'https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-page.sql.gz'
 WIKIPEDIA_PAGE_IDS_FILE = 'wikipedia_page_ids.sql.gz'
-WIKIPEDIA_ARTICLES_URL = 'https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2'
+WIKIPEDIA_ARTICLES_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.xml.bz2'
 WIKIPEDIA_ARTICLES_FILE = 'wikipedia_articles.xml.bz2'
-AIDA_MEANS_URL = 'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/aida_means.tsv.bz2'
+AIDA_MEANS_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.tsv.bz2'
 AIDA_MEANS_FILE = 'aida_means.tsv.bz2'
 
 
