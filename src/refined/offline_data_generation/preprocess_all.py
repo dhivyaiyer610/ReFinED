@@ -58,7 +58,7 @@ WIKIDATA_DUMP_FILE = 'wikidata.json.bz2'
 # Wikipedia configuration
 WIKIPEDIA_REDIRECTS_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.sql.gz'
 WIKIPEDIA_REDIRECTS_FILE = 'wikipedia_redirects.sql.gz'
-WIKIPEDIA_PAGE_IDS_URL = 'https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-page.sql.gz'
+WIKIPEDIA_PAGE_IDS_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.sql.gz'
 WIKIPEDIA_PAGE_IDS_FILE = 'wikipedia_page_ids.sql.gz'
 WIKIPEDIA_ARTICLES_URL = 'https://github.com/dhivyaiyer610/Empty-files/raw/main/empty_file.xml.bz2'
 WIKIPEDIA_ARTICLES_FILE = 'wikipedia_articles.xml.bz2'
